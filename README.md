@@ -1,4 +1,4 @@
-# Angular 7 - Demo CRUD Application / Project for Beginners
+# Angular 7 - Demo CRUD Application
 # CRUD
 ### Created By NILESH PATIL(http://nileshpatil.xyz)
 
