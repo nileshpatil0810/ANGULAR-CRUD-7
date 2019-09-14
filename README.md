@@ -1,6 +1,6 @@
 # Angular 7 - Demo CRUD Application / Project for Beginners
-# Student Management
-### Created By [Sangwin Gawande](http://sangw.in)
+# CRUD
+### Created By NILESH PATIL(http://nileshpatil.xyz)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
 
